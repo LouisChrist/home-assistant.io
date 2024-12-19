@@ -28,8 +28,8 @@ The `bluesound` platform allows you to control your [Bluesound](https://www.blue
 
 These are the available button entities:
 
-* `button.speaker_name_set_sleep_timer`: Setting a sleep timer.
-* `button.speaker_name_sleep_timer`: Clearing the sleep timer.
+- `button.speaker_name_set_sleep_timer`: Setting a sleep timer.
+- `button.speaker_name_sleep_timer`: Clearing the sleep timer.
 
 Replace `speaker_name` with the name of your speaker.
 
